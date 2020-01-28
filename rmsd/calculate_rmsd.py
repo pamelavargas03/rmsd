@@ -5,6 +5,7 @@ or PDB format, using transformation and rotation.
 
 For more information, usage, example and citation read more at
 https://github.com/charnley/rmsd
+#Use for Geometry comparison
 """
 
 __version__ = '1.3.2'
